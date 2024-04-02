@@ -1,2 +1,2 @@
 # HT_BLOCK
-Extensible Hash teable implementation in c
+Extensible Hash table implementation in c
